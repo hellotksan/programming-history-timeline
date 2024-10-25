@@ -1,0 +1,24 @@
+{
+  "description": "FORTRAN（Formula Translation）は、数値計算や科学技術計算に特化したプログラミング言語で、特にエンジニアリングや物理学の分野で使用されます。",
+  "usage": "数値解析、シミュレーション、科学計算において、特に大規模な計算を行うアプリケーションで利用されています。",
+  "versions": [
+    {
+      "version": "FORTRAN 77",
+      "releaseDate": "1977",
+      "features": ["構造化プログラミングのサポート", "標準化"],
+      "website": "https://en.wikipedia.org/wiki/Fortran#Fortran_77"
+    },
+    {
+      "version": "FORTRAN 90",
+      "releaseDate": "1991",
+      "features": ["モジュール", "配列処理の拡張", "動的メモリ管理"],
+      "website": "https://en.wikipedia.org/wiki/Fortran#Fortran_90"
+    },
+    {
+      "version": "FORTRAN 95",
+      "releaseDate": "1997",
+      "features": ["オブジェクト指向プログラミングの導入", "改良されたI/O機能"],
+      "website": "https://en.wikipedia.org/wiki/Fortran#Fortran_95"
+    }
+  ]
+}

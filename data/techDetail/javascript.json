@@ -1,0 +1,16 @@
+{
+  "description": "JavaScriptは、ウェブブラウザ上で動作するプログラミング言語で、インタラクティブなコンテンツを作成するために広く使用されています。",
+  "usage": "Web開発、サーバーサイドプログラミング、ゲーム開発など。",
+  "versions": [
+    {
+      "version": "ES5",
+      "releaseDate": "2009-12-04",
+      "features": ["Strict Mode", "JSON support"]
+    },
+    {
+      "version": "ES6",
+      "releaseDate": "2015-06-17",
+      "features": ["Arrow Functions", "Promises"]
+    }
+  ]
+}

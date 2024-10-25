@@ -1,0 +1,21 @@
+{
+  "description": "Reactは、ユーザーインターフェースを構築するためのJavaScriptライブラリで、コンポーネントベースのアプローチを提供します。",
+  "usage": "シングルページアプリケーション(SPA)やモバイルアプリケーションの開発に広く使用されています。",
+  "versions": [
+    {
+      "version": "16.0.0",
+      "releaseDate": "2017-09-26",
+      "features": ["Error boundaries", "Fragments", "Portals"]
+    },
+    {
+      "version": "17.0.0",
+      "releaseDate": "2020-10-20",
+      "features": ["新しいJSX変換", "イベントハンドリングの改善"]
+    },
+    {
+      "version": "18.0.0",
+      "releaseDate": "2022-03-29",
+      "features": ["Concurrent Rendering", "Automatic Batching"]
+    }
+  ]
+}
